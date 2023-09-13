@@ -5,22 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7200ea7-c54d-47c9-a014-6deb3d548316" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_4/homework/task_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_4/homework/task_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_4/homework/task_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_4/homework/task_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_4/homework/task_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_4/homework/task_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_4/homework/task_star.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_4/practice/task_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_4/practice/task_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_4/practice/task_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_4/practice/task_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_4/practice/task_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_4/practice/task_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_4/practice/task_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_5/practice/task_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_5/practice/task_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_5/practice/task_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_5/practice/task_4a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_5/practice/task_4b.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_5/practice/task_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_5/practice/task_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_6/homework/ATM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_6/homework/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_6/homework/task_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_6/homework/task_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_6/practice/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_6/practice/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_6/practice/task_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_6/practice/task_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_3/task_star.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson_3/task_star.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +77,21 @@
       <option name="project" value="LOCAL" />
       <updated>1693749989922</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1694037672923</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694037672923</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit">
+      <created>1694174130261</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694174130261</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
