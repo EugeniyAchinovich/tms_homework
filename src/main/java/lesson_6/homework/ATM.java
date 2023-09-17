@@ -18,7 +18,7 @@ public class ATM {
     }
     // снять
     public boolean chargeOff(int amount) {
-        String MSG_LACK_OF_NOTES = "\t. Операция не может быть выполнена: необходима инкассация.";
+        final String  MSG_LACK_OF_NOTES = "\t. Операция не может быть выполнена: необходима инкассация.";
         String MSG_WRONG_REQUEST = "\t. Операция не может быть выполнена: некорректно введена сумма.";
 
         String FG_BLUE = "\u001B[34m";
