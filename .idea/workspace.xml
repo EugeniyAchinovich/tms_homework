@@ -5,29 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7200ea7-c54d-47c9-a014-6deb3d548316" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_7/homework/task_1/Accountant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_7/homework/task_1/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_7/homework/task_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_7/homework/task_1/PositionPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_7/homework/task_1/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_7/homework/task_2/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_7/homework/task_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_7/homework/task_2/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_7/homework/task_2/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_7/homework/task_2/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_7/homework/task_3/AutoData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_7/homework/task_3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_7/practice/task_1/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_7/practice/task_1/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_7/practice/task_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_7/practice/task_1/Voice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_7/practice/task_2/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_7/practice/task_2/Hp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_7/practice/task_2/Mac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_7/practice/task_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_8/homework/task_1/Dentist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_8/homework/task_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_8/homework/task_1/Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_8/homework/task_1/Surgeon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_8/homework/task_1/Therapist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_8/homework/task_1/Treatable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_8/homework/task_2/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_8/homework/task_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_8/practice/task_1/Build.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_8/practice/task_1/Garage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_8/practice/task_1/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_8/practice/task_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_8/practice/task_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_8/practice/task_2/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_6/homework/ATM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson_6/homework/ATM.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694617476448</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Initial commit">
+      <created>1694990402669</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1694990402669</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
