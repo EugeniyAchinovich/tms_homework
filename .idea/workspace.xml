@@ -5,20 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7200ea7-c54d-47c9-a014-6deb3d548316" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_8/homework/task_1/Dentist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_8/homework/task_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_8/homework/task_1/Patient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_8/homework/task_1/Surgeon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_8/homework/task_1/Therapist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_8/homework/task_1/Treatable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_8/homework/task_2/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_8/homework/task_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_8/practice/task_1/Build.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_8/practice/task_1/Garage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_8/practice/task_1/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_8/practice/task_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_8/practice/task_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_8/practice/task_2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_10/practice/task_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_10/practice/task_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_9/homework/task_1/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_9/homework/task_1/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_9/homework/task_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_9/homework/task_1/Rabbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_9/homework/task_1/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_9/homework/task_2/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_9/homework/task_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_9/practice/task_1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_9/practice/task_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_9/practice/task_1/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_9/practice/task_1/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_9/practice/task_1/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_9/practice/task_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_9/practice/task_2/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
