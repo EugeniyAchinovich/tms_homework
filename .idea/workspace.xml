@@ -5,10 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7200ea7-c54d-47c9-a014-6deb3d548316" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_10/practice/task_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_10/practice/task_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_10/practice/task_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_10/practice/task_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_12/homework/task_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_12/homework/task_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_12/practice/task_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_12/practice/task_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_12/practice/task_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_12/practice/task_3/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_12/practice/task_4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_12/practice/task_4/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/documents.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/invalid_documents.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/romeo-and-juliet.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/valid_documents.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +31,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -44,13 +53,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\homework\src\main\resources" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -102,7 +117,21 @@
       <option name="project" value="LOCAL" />
       <updated>1695993774550</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Initial commit">
+      <created>1695911959281</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1695911959281</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Initial commit">
+      <created>1696176610068</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1696176610068</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,8 +146,20 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial commit" />
     <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/lesson_12/practice/task_1.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/homework$task_star.ic" NAME="task_star Coverage Results" MODIFIED="1693740004915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
