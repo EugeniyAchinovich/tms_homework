@@ -5,15 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7200ea7-c54d-47c9-a014-6deb3d548316" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_15/homework/task_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_15/homework/task_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_15/practice/task_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_15/practice/task_1/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_15/practice/task_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_15/practice/task_3/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_15/practice/task_3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_15/practice/task_4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_15/practice/task_4/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_16/practice/task_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_16/practice/task_2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_16/practice/task_2/task_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_16/practice/task_3/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_16/practice/task_3/Banana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_16/practice/task_3/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_16/practice/task_3/Orange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_17/homework/task_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_17/practice/task_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_17/practice/task_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_17/practice/task_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_17/practice/task_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_17/practice/task_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_17/practice/task_6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -149,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697135327734</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Initial commit">
+      <created>1697637728875</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1697637728875</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
