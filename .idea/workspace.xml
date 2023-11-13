@@ -5,16 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7200ea7-c54d-47c9-a014-6deb3d548316" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/William_Shakespeare_Sonnet_130.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_18/homework/task_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_18/practice/task_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_18/practice/task_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_18/practice/task_2/MyHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_18/practice/task_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_18/practice/task_4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_18/practice/task_4/ValueData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_18/practice/task_4/ValueItems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/source_document.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_11/task_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_11/task_1/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_19/homework/task_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_19/homework/task_1/ThreadFindMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_19/homework/task_1/ThreadFindMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_19/homework/task_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_19/homework/task_2/ThreadSortBubble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_19/homework/task_2/ThreadSortInsertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_19/homework/task_2/ThreadSortSelection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_19/homework/task_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_19/homework/task_3/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_19/practice/task_1/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_19/practice/task_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_19/practice/task_2/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_19/practice/task_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_19/practice/task_3/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_19/practice/task_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_19/practice/task_4/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_19/practice/task_4/CounterThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_19/practice/task_4/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,12 +66,19 @@
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/homework/src/main/java/lesson_19/practice/task_3&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\homework\src\main\java\lesson_19\practice\task_3" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\IdeaProjects\homework\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lesson_19.practice.task_2" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -164,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698677012560</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Initial commit">
+      <created>1699537525251</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1699537525251</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
