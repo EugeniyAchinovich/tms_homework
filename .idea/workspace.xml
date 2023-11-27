@@ -5,26 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7200ea7-c54d-47c9-a014-6deb3d548316" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_11/task_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_11/task_1/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_19/homework/task_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_19/homework/task_1/ThreadFindMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_19/homework/task_1/ThreadFindMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_19/homework/task_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_19/homework/task_2/ThreadSortBubble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_19/homework/task_2/ThreadSortInsertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_19/homework/task_2/ThreadSortSelection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_19/homework/task_3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_19/homework/task_3/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_19/practice/task_1/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_19/practice/task_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_19/practice/task_2/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_19/practice/task_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_19/practice/task_3/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_19/practice/task_3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_19/practice/task_4/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_19/practice/task_4/CounterThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_19/practice/task_4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_20/homework/task_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_20/homework/task_1/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_20/homework/task_1/UserCRUD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,6 +58,7 @@
       <recent name="C:\Users\User\IdeaProjects\homework\src\main\java\lesson_19\practice\task_3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\homework\src\test" />
       <recent name="C:\Users\User\IdeaProjects\homework\src\main\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -188,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699537525251</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Initial commit">
+      <created>1699894299724</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1699894299724</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
