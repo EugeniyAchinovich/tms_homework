@@ -5,19 +5,11 @@
          version="3.1">
 
     <servlet>
-        <servlet-name>TimezoneServlet</servlet-name>
-        <servlet-class>lesson_22.homework.task_1</servlet-class>
+        <servlet-name>hello</servlet-name>
+        <servlet-class>lesson_23.homework.task_1</servlet-class>
     </servlet>
     <servlet-mapping>
-        <servlet-name>TimezoneServlet</servlet-name>
-        <url-pattern>/minsk</url-pattern>
-    </servlet-mapping>
-    <servlet-mapping>
-        <servlet-name>TimezoneServlet</servlet-name>
-        <url-pattern>/washington</url-pattern>
-    </servlet-mapping>
-    <servlet-mapping>
-        <servlet-name>TimezoneServlet</servlet-name>
-        <url-pattern>/beijing</url-pattern>
+        <servlet-name>hello</servlet-name>
+        <url-pattern>/sample</url-pattern>
     </servlet-mapping>
 </web-app>
