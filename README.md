@@ -1,8 +1,14 @@
-## Урок 24. Домашнее задание
-Решения находятся в src/main/java/lesson_24/homework
+## Уроки 26, 29, 30, 31, 33. Домашнее задание
+Решения находятся в 
 
-#### Задача 1:
-Создать html страницу которая будет выводить следующее:
+src/main/java/lesson_26/homework
 
-![image](https://github.com/EugeniyAchinovich/tms_homework/assets/75760235/979780d9-05ca-40ae-a166-6579d804a85a)
+src/main/java/lesson_29/homework
 
+src/main/java/lesson_30/homework
+
+src/main/java/lesson_31/homework
+
+src/main/java/lesson_33/homework
+
+соотвественно
