@@ -10,61 +10,154 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7200ea7-c54d-47c9-a014-6deb3d548316" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_24/homework/task_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_25/practice/task_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-grid.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-grid.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-grid.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-reboot.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-utilities.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-utilities.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-utilities.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-utilities.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-utilities.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/js/bootstrap.esm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/js/bootstrap.esm.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/js/bootstrap.esm.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/js/bootstrap.esm.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/webapp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/webapp/tms_logo.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_26/homework/RequestValidatorServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_26/homework/save-request.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_26/homework/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_29/homework/DIP/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_29/homework/DIP/DatabaseLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_29/homework/DIP/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_29/homework/DIP/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_29/homework/ISP/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_29/homework/ISP/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_29/homework/ISP/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_29/homework/ISP/WildAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_29/homework/LSP/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_29/homework/LSP/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_29/homework/LSP/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_29/homework/LSP/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_29/homework/OCP/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_29/homework/OCP/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_29/homework/OCP/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_29/homework/OCP/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_29/homework/SRP/DataBaseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_29/homework/SRP/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_29/practice/task_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/homework/task_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/homework/task_1/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/homework/task_2/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/homework/task_2/ConcreteFactory1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/homework/task_2/ConcreteFactory2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/homework/task_2/ConcreteProductA1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/homework/task_2/ConcreteProductA2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/homework/task_2/ConcreteProductB1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/homework/task_2/ConcreteProductB2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/homework/task_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/homework/task_2/ProductA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/homework/task_2/ProductB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/homework/task_3/ConcreteCreatorA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/homework/task_3/ConcreteCreatorB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/homework/task_3/ConcreteProductA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/homework/task_3/ConcreteProductB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/homework/task_3/Creator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/homework/task_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/homework/task_3/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/homework/task_4/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/homework/task_4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/homework/task_4/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/homework/task_4/ProductBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/practice/task_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/practice/task_1/Sun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/practice/task_2/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/practice/task_2/DeveloperFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/practice/task_2/JavaDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/practice/task_2/JavaDeveloperFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/practice/task_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/practice/task_2/PythonDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/practice/task_2/PythonDeveloperFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/practice/task_3/CourseFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/practice/task_3/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/practice/task_3/JavaCourseFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/practice/task_3/JavaDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/practice/task_3/JavaLanguage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/practice/task_3/JavaLessonProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/practice/task_3/Language.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/practice/task_3/LessonProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/practice/task_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/practice/task_4/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_30/practice/task_4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_31/homework/task_1/Adaptee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_31/homework/task_1/Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_31/homework/task_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_31/homework/task_1/Target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_31/homework/task_2/Facade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_31/homework/task_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_31/homework/task_2/Subsystem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_31/homework/task_2/Subsystem2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_31/homework/task_3/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_31/homework/task_3/ConcreteComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_31/homework/task_3/ConcreteDecoratorA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_31/homework/task_3/ConcreteDecoratorB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_31/homework/task_3/Decorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_31/homework/task_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_31/homework/task_4/ConcreteStrategyA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_31/homework/task_4/ConcreteStrategyB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_31/homework/task_4/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_31/homework/task_4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_31/homework/task_4/Strategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_33/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_33/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/save-request.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/META-INF/context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/save-request.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/save-request.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/webapp/ShangTsung.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/webapp/save-request.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/sample.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_22/homework/task_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_22/homework/task_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_22/practice/task_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_23/homework/task_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_23/practice/task_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_24/homework/task_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_24/practice/task_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_25/homework/task_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_25/practice/task_1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/css/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/css/bootstrap-grid.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/css/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-grid.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/css/bootstrap-grid.rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-grid.rtl.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/css/bootstrap-grid.rtl.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-grid.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/css/bootstrap-grid.rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-grid.rtl.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-reboot.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/css/bootstrap-reboot.rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-reboot.rtl.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-reboot.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-reboot.rtl.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-utilities.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/css/bootstrap-utilities.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-utilities.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/css/bootstrap-utilities.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-utilities.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-utilities.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/css/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-utilities.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/css/bootstrap-utilities.rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-utilities.rtl.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-utilities.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap-utilities.rtl.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/css/bootstrap.rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap.rtl.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/css/bootstrap.rtl.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/css/bootstrap.rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/css/bootstrap.rtl.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/css/bootstrap.rtl.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/js/bootstrap.esm.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/js/bootstrap.esm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/js/bootstrap.esm.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/js/bootstrap.esm.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/js/bootstrap.esm.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/js/bootstrap.esm.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/js/bootstrap.esm.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/js/bootstrap.esm.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/js/bootstrap.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.3.0-dist/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/bootstrap-5.3.0-dist/js/bootstrap.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/webapp/superhero.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/webapp/superhero.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,8 +171,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
-        <option value="Interface" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -125,7 +219,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Facets&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
@@ -134,20 +228,108 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\homework\src\main\java\lesson_26\homework" />
+      <recent name="C:\Users\User\IdeaProjects\homework\src\main\java" />
+      <recent name="C:\Users\User\IdeaProjects\homework\web\WEB-INF" />
+      <recent name="C:\Users\User\IdeaProjects\homework\web" />
       <recent name="C:\Users\User\IdeaProjects\homework\src\main\java\lesson_19\practice\task_3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\IdeaProjects\homework\web" />
       <recent name="C:\Users\User\IdeaProjects\homework\web\WEB-INF\webapp" />
       <recent name="C:\Users\User\IdeaProjects\homework\web\WEB-INF" />
+      <recent name="C:\Users\User\IdeaProjects\homework\web\webapp" />
       <recent name="C:\Users\User\IdeaProjects\homework\src\main\java\lesson_24\homework" />
-      <recent name="C:\Users\User\IdeaProjects\homework\src\main\webapp\WEB-INF" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="lesson_19.practice.task_2" />
     </key>
   </component>
   <component name="RunManager">
+    <configuration name="Tomcat 10.1.16" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.16" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <file path="$PROJECT_DIR$">
+          <settings>
+            <option name="CONTEXT_PATH" value="/homework" />
+          </settings>
+        </file>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="8c5f4d02-210c-4a0d-8c14-bb970940b962" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="64766" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tomcat10" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.16" ALTERNATIVE_JRE_ENABLED="false">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
@@ -252,7 +434,14 @@
       <workItem from="1701799761433" duration="34000" />
       <workItem from="1701960760298" duration="6868000" />
       <workItem from="1702312676150" duration="10534000" />
-      <workItem from="1702565146826" duration="1230000" />
+      <workItem from="1702565146826" duration="3746000" />
+      <workItem from="1702919715062" duration="1207000" />
+      <workItem from="1703179735721" duration="2061000" />
+      <workItem from="1703614360481" duration="1167000" />
+      <workItem from="1704371781735" duration="3116000" />
+      <workItem from="1704717407240" duration="5973000" />
+      <workItem from="1704723399401" duration="1177000" />
+      <workItem from="1704924042694" duration="169000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1693749989921</created>
@@ -382,7 +571,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701962302444</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1702568047774</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1702568047774</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
